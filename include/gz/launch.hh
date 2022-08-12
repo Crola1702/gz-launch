@@ -16,4 +16,4 @@
  */
 
 #include <ignition/launch.hh>
-#include <ignition/launch/config.hh>
+#include <gz/launch/config.hh>
